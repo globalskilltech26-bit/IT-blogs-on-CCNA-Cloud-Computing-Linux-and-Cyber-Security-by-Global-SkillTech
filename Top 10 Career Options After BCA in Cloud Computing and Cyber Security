@@ -1,0 +1,859 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Top 10 Career Options After BCA in Cloud Computing and Cyber Security | Global SkillTech</title>
+
+    <meta name="description" content="Discover the top 10 career options after BCA in Cloud Computing and Cyber Security, including Cloud Engineer, Cyber Security Analyst, SOC Analyst and Network Administrator. Explore IT career skills with Global SkillTech.">
+
+    <meta name="keywords" content="Top 10 career options after BCA, BCA Cloud Computing and Cyber Security, jobs after BCA, Cloud Computing jobs, Cyber Security careers, Cloud Support Engineer, SOC Analyst, Network Administrator, Global SkillTech">
+
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Global SkillTech">
+
+    <!-- Replace this URL with the actual published blog URL -->
+    <link rel="canonical" href="https://globalskilltech.in/blogs/top-career-options-after-bca-cloud-computing-cyber-security">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Top 10 Career Options After BCA in Cloud Computing and Cyber Security">
+    <meta property="og:description" content="Explore 10 IT career options, essential technical skills, and career guidance for BCA graduates.">
+    <meta property="og:url" content="https://globalskilltech.in/blogs/top-career-options-after-bca-cloud-computing-cyber-security">
+    <meta property="og:site_name" content="Global SkillTech">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Top 10 Career Options After BCA">
+    <meta name="twitter:description" content="Explore careers in Cloud Computing, Cyber Security, Networking and IT Infrastructure.">
+
+    <style>
+        :root {
+            --gst-red: #AE454B;
+            --gst-dark: #252525;
+            --gst-light: #fff7f7;
+            --gst-border: #e9dada;
+            --gst-muted: #626262;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            color: var(--gst-dark);
+            background: #ffffff;
+            line-height: 1.8;
+        }
+
+        .gst-header {
+            background: var(--gst-red);
+            color: #ffffff;
+            padding: 18px 20px;
+        }
+
+        .gst-header-inner {
+            max-width: 1100px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .gst-brand {
+            font-size: 24px;
+            font-weight: bold;
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .gst-header-link {
+            color: #ffffff;
+            text-decoration: none;
+            border: 1px solid #ffffff;
+            padding: 8px 15px;
+            border-radius: 5px;
+        }
+
+        .gst-header-link:hover {
+            background: #ffffff;
+            color: var(--gst-red);
+        }
+
+        .gst-container {
+            max-width: 1050px;
+            margin: 35px auto;
+            padding: 0 22px;
+        }
+
+        .gst-breadcrumb {
+            font-size: 14px;
+            color: var(--gst-muted);
+            margin-bottom: 18px;
+        }
+
+        .gst-breadcrumb a {
+            color: var(--gst-red);
+            text-decoration: none;
+        }
+
+        .gst-hero {
+            background: var(--gst-light);
+            padding: 30px;
+            border-left: 5px solid var(--gst-red);
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .gst-hero h1 {
+            color: var(--gst-red);
+            font-size: clamp(30px, 4vw, 43px);
+            line-height: 1.25;
+            margin: 0 0 18px;
+        }
+
+        .gst-hero p {
+            font-size: 18px;
+            margin-bottom: 0;
+        }
+
+        .gst-article {
+            max-width: 850px;
+        }
+
+        .gst-article h2 {
+            color: var(--gst-red);
+            font-size: 27px;
+            line-height: 1.4;
+            margin-top: 38px;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--gst-border);
+        }
+
+        .gst-article h3 {
+            color: var(--gst-dark);
+            font-size: 20px;
+            margin-top: 20px;
+            margin-bottom: 8px;
+        }
+
+        .gst-article p {
+            font-size: 16px;
+            margin: 0 0 16px;
+        }
+
+        .gst-article ul {
+            padding-left: 25px;
+            margin-top: 8px;
+            margin-bottom: 22px;
+        }
+
+        .gst-article li {
+            padding-left: 3px;
+            margin-bottom: 7px;
+        }
+
+        .gst-article a {
+            color: var(--gst-red);
+        }
+
+        .gst-skills {
+            background: #fafafa;
+            border: 1px solid var(--gst-border);
+            border-radius: 8px;
+            padding: 18px 22px;
+            margin: 18px 0 28px;
+        }
+
+        .gst-toc {
+            border: 1px solid var(--gst-border);
+            border-radius: 8px;
+            padding: 22px;
+            margin: 25px 0;
+        }
+
+        .gst-toc h2 {
+            margin-top: 0;
+            font-size: 23px;
+            border: none;
+        }
+
+        .gst-toc a {
+            color: var(--gst-red);
+            text-decoration: none;
+        }
+
+        .gst-toc a:hover {
+            text-decoration: underline;
+        }
+
+        .gst-faq {
+            border-bottom: 1px solid var(--gst-border);
+            padding: 10px 0;
+        }
+
+        .gst-faq h3 {
+            color: var(--gst-red);
+        }
+
+        .gst-cta {
+            background: var(--gst-red);
+            color: #ffffff;
+            padding: 35px 25px;
+            margin-top: 45px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .gst-cta h2 {
+            color: #ffffff;
+            font-size: 30px;
+            border: none;
+            margin: 0 0 15px;
+        }
+
+        .gst-cta p {
+            max-width: 700px;
+            margin: 0 auto 18px;
+        }
+
+        .gst-button {
+            display: inline-block;
+            background: #ffffff;
+            color: var(--gst-red) !important;
+            padding: 12px 24px;
+            border-radius: 5px;
+            font-weight: bold;
+            text-decoration: none;
+            margin: 6px;
+        }
+
+        .gst-button:hover {
+            background: #f3eeee;
+        }
+
+        .gst-footer {
+            text-align: center;
+            padding: 25px 18px;
+            margin-top: 45px;
+            background: #292929;
+            color: #ffffff;
+        }
+
+        .gst-footer a {
+            color: #ffffff;
+        }
+
+        @media (max-width: 600px) {
+            .gst-container {
+                margin-top: 20px;
+                padding: 0 15px;
+            }
+
+            .gst-hero {
+                padding: 22px 18px;
+            }
+
+            .gst-article h2 {
+                font-size: 23px;
+            }
+
+            .gst-article h3 {
+                font-size: 19px;
+            }
+
+            .gst-header-inner {
+                justify-content: center;
+                text-align: center;
+            }
+        }
+    </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Top 10 Career Options After BCA in Cloud Computing and Cyber Security",
+      "description": "Explore 10 career options after BCA in Cloud Computing and Cyber Security, along with essential skills and career guidance.",
+      "author": {
+        "@type": "Organization",
+        "name": "Global SkillTech"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Global SkillTech",
+        "url": "https://globalskilltech.in/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://globalskilltech.in/blogs/top-career-options-after-bca-cloud-computing-cyber-security"
+      },
+      "inLanguage": "en"
+    }
+    </script>
+</head>
+
+<body>
+
+<header class="gst-header">
+    <div class="gst-header-inner">
+        <a class="gst-brand" href="https://globalskilltech.in/">
+            Global SkillTech
+        </a>
+
+        <a class="gst-header-link" href="https://globalskilltech.in/">
+            Visit Our Website
+        </a>
+    </div>
+</header>
+
+<main class="gst-container">
+
+    <nav class="gst-breadcrumb" aria-label="Breadcrumb">
+        <a href="https://globalskilltech.in/">Home</a>
+        &nbsp; / &nbsp;
+        <span>Career Guidance</span>
+    </nav>
+
+    <section class="gst-hero">
+        <h1>Top 10 Career Options After BCA in Cloud Computing and Cyber Security</h1>
+
+        <p>
+            Discover promising IT career paths after BCA, explore essential
+            technical skills, and learn how Cloud Computing, Networking,
+            and Cyber Security can help you prepare for the technology industry.
+        </p>
+    </section>
+
+    <article class="gst-article">
+
+        <p>
+            The technology industry is growing rapidly, creating exciting
+            career opportunities for students with the right technical skills.
+            A Bachelor of Computer Applications (BCA) in Cloud Computing and
+            Cyber Security can provide a foundation in computer applications,
+            cloud technologies, networking, and information security.
+        </p>
+
+        <p>
+            Businesses across industries use digital systems, cloud services,
+            computer networks, and online applications. These systems need
+            professionals who can maintain IT infrastructure, troubleshoot
+            technical problems, and help protect sensitive information.
+        </p>
+
+        <p>
+            If you are planning your future after graduation, understanding
+            different career paths can help you choose the right skills to learn.
+            Here are ten career options worth exploring after BCA.
+        </p>
+
+        <nav class="gst-toc" aria-label="Table of contents">
+            <h2>Table of Contents</h2>
+            <ul>
+                <li><a href="#cloud-support">1. Cloud Support Engineer</a></li>
+                <li><a href="#cyber-analyst">2. Cyber Security Analyst</a></li>
+                <li><a href="#network-admin">3. Network Administrator</a></li>
+                <li><a href="#cloud-admin">4. Cloud Administrator</a></li>
+                <li><a href="#soc-analyst">5. SOC Analyst</a></li>
+                <li><a href="#system-admin">6. System Administrator</a></li>
+                <li><a href="#devops">7. DevOps Engineer</a></li>
+                <li><a href="#information-security">8. Information Security Specialist</a></li>
+                <li><a href="#technical-support">9. Technical Support Engineer</a></li>
+                <li><a href="#cloud-security">10. Cloud Security Specialist</a></li>
+                <li><a href="#future">Why Choose Cloud Computing and Cyber Security?</a></li>
+                <li><a href="#skills">Essential Skills to Learn After BCA</a></li>
+                <li><a href="#global-skilltech">How Global SkillTech Can Help</a></li>
+                <li><a href="#faqs">Frequently Asked Questions</a></li>
+            </ul>
+        </nav>
+
+        <h2 id="cloud-support">1. Cloud Support Engineer</h2>
+
+        <p>
+            Cloud Support Engineers help organizations maintain cloud-based
+            applications, servers, storage, and infrastructure. They troubleshoot
+            technical issues, investigate service interruptions, and help users
+            resolve cloud-related problems.
+        </p>
+
+        <p>
+            Professionals in this field may work with Amazon Web Services (AWS),
+            Microsoft Azure, or Google Cloud. Beginners can start by learning
+            cloud fundamentals, networking, and Linux.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Cloud computing fundamentals</li>
+                <li>AWS or Microsoft Azure basics</li>
+                <li>Linux commands</li>
+                <li>Networking and troubleshooting</li>
+                <li>Monitoring and problem-solving</li>
+            </ul>
+        </div>
+
+        <h2 id="cyber-analyst">2. Cyber Security Analyst</h2>
+
+        <p>
+            Cyber Security Analysts help protect computer systems, networks,
+            and organizational data from cyber threats. They review security
+            alerts, investigate suspicious activity, identify vulnerabilities,
+            and help implement security controls.
+        </p>
+
+        <p>
+            Students interested in this career should build a strong foundation
+            in networking, operating systems, security principles, and
+            defensive security practices.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Network security fundamentals</li>
+                <li>Security monitoring</li>
+                <li>Vulnerability assessment</li>
+                <li>Risk assessment</li>
+                <li>Incident investigation</li>
+            </ul>
+        </div>
+
+        <h2 id="network-admin">3. Network Administrator</h2>
+
+        <p>
+            Network Administrators manage and maintain an organization's
+            computer networks. Their responsibilities may include configuring
+            routers and switches, monitoring network performance, managing
+            connectivity, and resolving network problems.
+        </p>
+
+        <p>
+            Networking is also an important foundation for cloud computing
+            and cyber security. Learning routing, switching, IP addressing,
+            and troubleshooting can help students prepare for entry-level
+            networking roles.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>TCP/IP and subnetting</li>
+                <li>Routing and switching</li>
+                <li>CCNA-level networking concepts</li>
+                <li>Network troubleshooting</li>
+                <li>Basic Linux administration</li>
+            </ul>
+        </div>
+
+        <h2 id="cloud-admin">4. Cloud Administrator</h2>
+
+        <p>
+            Cloud Administrators help manage cloud infrastructure, virtual
+            machines, storage, user accounts, and access permissions. They
+            monitor cloud resources and help maintain availability, security,
+            and efficient resource usage.
+        </p>
+
+        <p>
+            Practical experience with a cloud platform, virtual machines,
+            permissions, and cloud monitoring can be useful when preparing
+            for this career.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>AWS or Azure administration</li>
+                <li>Virtual machines and storage</li>
+                <li>Identity and access management (IAM)</li>
+                <li>Cloud monitoring</li>
+                <li>Cloud security fundamentals</li>
+            </ul>
+        </div>
+
+        <h2 id="soc-analyst">5. SOC Analyst</h2>
+
+        <p>
+            A Security Operations Center (SOC) Analyst monitors security alerts,
+            reviews system logs, investigates suspicious activities, and assists
+            with responding to cyber incidents. SOC teams help organizations
+            identify and investigate potential security threats.
+        </p>
+
+        <p>
+            Beginners interested in this role should practise log analysis,
+            understand common attack techniques, and learn how security
+            monitoring tools work.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>SIEM tool fundamentals</li>
+                <li>Log analysis</li>
+                <li>Threat detection</li>
+                <li>Incident response fundamentals</li>
+                <li>Networking and operating systems</li>
+            </ul>
+        </div>
+
+        <h2 id="system-admin">6. System Administrator</h2>
+
+        <p>
+            System Administrators manage servers, operating systems, user
+            accounts, and enterprise IT infrastructure. They help maintain
+            system availability, apply updates, manage permissions, and
+            troubleshoot technical issues.
+        </p>
+
+        <p>
+            This career can be suitable for students interested in Windows
+            Server, Linux, virtualization, and day-to-day IT infrastructure
+            management.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Windows Server administration</li>
+                <li>Linux administration</li>
+                <li>Active Directory</li>
+                <li>Virtualization</li>
+                <li>System monitoring and troubleshooting</li>
+            </ul>
+        </div>
+
+        <h2 id="devops">7. DevOps Engineer</h2>
+
+        <p>
+            DevOps Engineers help automate software development, testing,
+            deployment, and infrastructure management. They work with tools
+            that improve collaboration between software development and
+            IT operations teams.
+        </p>
+
+        <p>
+            DevOps is a more advanced career path for many graduates.
+            Practical experience in Linux, scripting, cloud services,
+            and software deployment can be helpful before applying
+            for these roles.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Linux and Git</li>
+                <li>Basic scripting</li>
+                <li>Docker fundamentals</li>
+                <li>CI/CD pipelines</li>
+                <li>Cloud platforms and automation</li>
+            </ul>
+        </div>
+
+        <h2 id="information-security">8. Information Security Specialist</h2>
+
+        <p>
+            Information Security Specialists help organizations protect
+            information, applications, and IT systems. Their work may include
+            security policy implementation, risk assessment, vulnerability
+            management, and support for compliance requirements.
+        </p>
+
+        <p>
+            The role requires an understanding of security controls,
+            organizational risks, and methods for protecting confidential
+            business information.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Information security principles</li>
+                <li>Risk assessment</li>
+                <li>Security policies and controls</li>
+                <li>Vulnerability management</li>
+                <li>Security auditing fundamentals</li>
+            </ul>
+        </div>
+
+        <h2 id="technical-support">9. Technical Support Engineer</h2>
+
+        <p>
+            Technical Support Engineers diagnose and resolve hardware,
+            software, operating system, and networking issues. They help
+            employees or customers restore services and use their computer
+            systems effectively.
+        </p>
+
+        <p>
+            This can be a practical starting point for fresh graduates.
+            Working in technical support helps develop troubleshooting,
+            communication, and real-world IT operations experience.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Computer hardware and software</li>
+                <li>Windows operating systems</li>
+                <li>Networking fundamentals</li>
+                <li>Problem diagnosis and troubleshooting</li>
+                <li>Customer communication</li>
+            </ul>
+        </div>
+
+        <h2 id="cloud-security">10. Cloud Security Specialist</h2>
+
+        <p>
+            Cloud Security Specialists help protect cloud infrastructure,
+            applications, and sensitive data. They work with access controls,
+            security configurations, monitoring, and cloud security policies.
+        </p>
+
+        <p>
+            This role generally requires a solid foundation in cloud
+            administration and security. Hands-on cloud projects and
+            experience with identity management can help build relevant skills.
+        </p>
+
+        <div class="gst-skills">
+            <strong>Skills Required:</strong>
+            <ul>
+                <li>Cloud platforms and architecture</li>
+                <li>Identity and access management</li>
+                <li>Cloud security configurations</li>
+                <li>Security monitoring</li>
+                <li>Risk and compliance fundamentals</li>
+            </ul>
+        </div>
+
+        <h2 id="future">Why Choose Cloud Computing and Cyber Security?</h2>
+
+        <p>
+            Cloud computing enables organizations to host applications,
+            manage infrastructure, and access computing resources on demand.
+            Cyber security helps protect digital systems, user accounts,
+            applications, and data from unauthorized access and cyber threats.
+        </p>
+
+        <p>
+            Learning both areas can help students understand how modern IT
+            environments operate and how they can be managed securely.
+            These skills are relevant across industries such as banking,
+            healthcare, education, retail, and IT services.
+        </p>
+
+        <p>
+            Career growth depends on several factors, including practical
+            skills, hands-on projects, communication abilities, certifications,
+            experience, and the requirements of individual employers.
+        </p>
+
+        <h2 id="skills">Essential Skills to Learn After BCA</h2>
+
+        <p>
+            Students can improve their technical foundation by following
+            a structured learning path and practising regularly.
+        </p>
+
+        <h3>1. Networking Fundamentals</h3>
+        <p>
+            Learn IP addressing, subnetting, DNS, DHCP, routing, switching,
+            and network troubleshooting. These concepts are useful in cloud
+            computing, cyber security, and IT support.
+        </p>
+
+        <h3>2. Linux Administration</h3>
+        <p>
+            Practise Linux commands, file permissions, user management,
+            services, package installation, and log inspection.
+        </p>
+
+        <h3>3. Cloud Computing</h3>
+        <p>
+            Start with cloud fundamentals and learn how to create virtual
+            machines, configure storage, manage permissions, and monitor
+            resources using AWS or Microsoft Azure.
+        </p>
+
+        <h3>4. Cyber Security Fundamentals</h3>
+        <p>
+            Understand authentication, access control, common vulnerabilities,
+            security monitoring, incident response, and defensive security
+            practices. Use authorized labs for practical learning.
+        </p>
+
+        <h3>5. Windows Server and Active Directory</h3>
+        <p>
+            Learn user and group management, domain fundamentals, permissions,
+            policies, and basic server administration.
+        </p>
+
+        <h3>6. Practical Projects</h3>
+        <p>
+            Create a small virtual lab, configure a network, deploy a test
+            virtual machine, practise system administration, and document
+            each project. A portfolio can help demonstrate your skills
+            during job applications.
+        </p>
+
+        <h2 id="global-skilltech">How Global SkillTech Can Help You Build IT Skills</h2>
+
+        <p>
+            Global SkillTech offers IT training focused on technical knowledge
+            and practical learning in areas such as networking, cloud computing,
+            cyber security, Linux, Windows Server, and IT infrastructure.
+        </p>
+
+        <p>
+            Students can explore training options that match their current
+            knowledge and professional goals. Building a strong technical
+            foundation, completing hands-on exercises, and preparing for
+            relevant entry-level certifications can support career preparation.
+        </p>
+
+        <p>
+            Before choosing a course, review the syllabus, practical lab
+            facilities, duration, fees, and career support available.
+            Select a learning path that matches the role you want to pursue.
+        </p>
+
+        <h2 id="faqs">Frequently Asked Questions (FAQs)</h2>
+
+        <section class="gst-faq">
+            <h3>1. Which job is best after BCA in Cloud Computing and Cyber Security?</h3>
+            <p>
+                Cloud Support Engineer, Technical Support Engineer, Network
+                Administrator, and SOC Analyst are potential options. The
+                best role depends on your interests, skills, and practical
+                experience.
+            </p>
+        </section>
+
+        <section class="gst-faq">
+            <h3>2. Can a BCA graduate start a career in cyber security?</h3>
+            <p>
+                Yes. A BCA graduate can prepare for entry-level security
+                opportunities by learning networking, operating systems,
+                security fundamentals, and monitoring tools. Employers may
+                have additional education or experience requirements.
+            </p>
+        </section>
+
+        <section class="gst-faq">
+            <h3>3. Is cloud computing a good career option after BCA?</h3>
+            <p>
+                Cloud computing can offer opportunities in cloud support,
+                administration, and infrastructure operations. Practical
+                skills and relevant experience can help strengthen your profile.
+            </p>
+        </section>
+
+        <section class="gst-faq">
+            <h3>4. Which certifications should I consider after BCA?</h3>
+            <p>
+                Depending on your chosen career path, you can explore
+                entry-level networking, cloud, Linux, or cyber security
+                certifications. Check the latest exam syllabus, eligibility,
+                and fees before registering.
+            </p>
+        </section>
+
+        <section class="gst-faq">
+            <h3>5. How can I gain practical IT experience?</h3>
+            <p>
+                Practise with virtual machines, build networking labs,
+                complete cloud projects, document troubleshooting exercises,
+                and maintain a portfolio of your work.
+            </p>
+        </section>
+
+        <section class="gst-faq">
+            <h3>6. Do I need coding skills for cloud computing and cyber security?</h3>
+            <p>
+                Basic scripting can be useful in both fields. Python, Bash,
+                or PowerShell can help automate tasks, analyse information,
+                and manage systems. The required level depends on the role.
+            </p>
+        </section>
+
+        <section class="gst-faq">
+            <h3>7. Can I start in IT support and move into cloud or cyber security?</h3>
+            <p>
+                Yes. IT support can provide experience with operating systems,
+                networking, troubleshooting, and user administration. You can
+                then build specialized skills and apply for suitable roles.
+            </p>
+        </section>
+
+        <h2>Final Thoughts</h2>
+
+        <p>
+            A BCA in Cloud Computing and Cyber Security can provide a
+            foundation for multiple careers in the IT industry. Whether
+            you are interested in cloud support, cyber security, networking,
+            system administration, or DevOps, each path requires continuous
+            learning and practical experience.
+        </p>
+
+        <p>
+            Identify your interests, learn the essential technologies,
+            practise through projects, and prepare for the requirements
+            of your target role. With consistent effort, you can work
+            towards building a career in the technology sector.
+        </p>
+
+        <section class="gst-cta">
+            <h2>Start Your IT Career with Global SkillTech!</h2>
+
+            <p>
+                Want to develop practical IT skills? Explore training
+                opportunities in Cloud Computing, Cyber Security,
+                Networking, Linux, Windows Server, and IT Infrastructure.
+            </p>
+
+            <p>
+                Speak to our career counsellors to explore training options
+                that match your learning needs and career goals.
+            </p>
+
+            <a class="gst-button"
+               href="https://globalskilltech.in/">
+                Visit Global SkillTech
+            </a>
+
+            <a class="gst-button"
+               href="https://globalskilltech.in/about.php">
+                About Global SkillTech
+            </a>
+        </section>
+
+    </article>
+</main>
+
+<footer class="gst-footer">
+    <p>
+        &copy; <span id="gst-year">2026</span> Global SkillTech.
+        All Rights Reserved.
+    </p>
+    <p>
+        <a href="https://globalskilltech.in/">Home</a>
+        &nbsp; | &nbsp;
+        <a href="https://globalskilltech.in/about.php">About Us</a>
+    </p>
+</footer>
+
+<script>
+    document.getElementById("gst-year").textContent =
+        new Date().getFullYear();
+</script>
+
+</body>
+</html>
