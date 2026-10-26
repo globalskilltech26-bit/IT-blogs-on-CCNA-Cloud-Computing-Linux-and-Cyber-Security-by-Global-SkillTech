@@ -1,0 +1,35 @@
+
+<article>
+  <h1>Network Troubleshooting Commands Every IT Support Engineer Should Know</h1>
+
+  <p>
+    Network troubleshooting is an essential skill for IT Support Engineers.
+    Learn how to diagnose connectivity, IP configuration, DNS and routing issues.
+  </p>
+
+  <h2>1. Ping Command</h2>
+  <p>Test connectivity to another device or server.</p>
+  <pre><code>ping 8.8.8.8</code></pre>
+
+  <h2>2. IP Configuration</h2>
+  <p>Check the IP address and default gateway on Windows.</p>
+  <pre><code>ipconfig /all</code></pre>
+
+  <h2>3. Trace Network Route</h2>
+  <pre><code>tracert google.com</code></pre>
+
+  <h2>4. DNS Lookup</h2>
+  <pre><code>nslookup google.com</code></pre>
+
+  <h2>5. Network Connections</h2>
+  <pre><code>netstat -ano</code></pre>
+
+  <h2>Learn Networking with Global SkillTech</h2>
+  <p>
+    Explore networking and IT training programs at Global SkillTech.
+  </p>
+  <p>
+    Website: <a href="https://globalskilltech.in/">globalskilltech.in</a><br>
+    Phone: 8587902800
+  </p>
+</article>
